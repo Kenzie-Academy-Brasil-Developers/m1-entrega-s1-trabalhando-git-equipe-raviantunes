@@ -1,28 +1,7 @@
-# Trabalhando em Equipe com GIT
+#Entrega: Trabalhando em equipe com git.
 
-## Como fazer?
+## Fato sobre <nome do dev>
 
-Nessa entrega vocês terão de usar todo seu conhecimento em GIT para trabalhar em equipe.
-
-Vocês deverão descrever um pouco mais sobre o seu relacionamento com a TI. Comente algo como "Escolhi a TI porque..." ou "Meu conhecimento em TI é..." para que seus colegas entendam seu relacionamento com a área.
-
-Cada pessoa deve ter ao menos 1 entrada.
-
-
-Cada entrada deverá ter ao menos:
-1. O seu nome.
-2. Imagem sua ou que represente algo relacionado ao seu hobbie.
-3. Comentário sobre o seu relacionamento com a TI.
-
-__O uso de Branches é obrigatório.__
-
-## Como Enviar?
-
-Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a seguir no seu projeto e confira se estão corretos:
-
-- [x] Enviar o link do Repositório;
-
-
-## Links
-
-Tenha certeza de enviar o link do repositório do Github.
+1. Ravi Antunes
+2. Tenho 27 anos, recifense, sou professor de inglês há 9 anos. Frustrado com a área docente, na qual somos desvalorizados de muitas maneiras, estou buscando me aprofundar na área tech enquanto desenvolvedor, com o intuito de ajudar pessoas e empresas a crescerem.
+3. Desde cedo fui apaixonado por tecnologia. O rápido avanço tecnológico sempre me facinou, e agora, com a Kenzie, estou cada dia mais aficcionado pela área tech! Pretendo ser um dev versátil e ligado a questões que envolvam o desenvolvimento de pessoas através de tecnologias
